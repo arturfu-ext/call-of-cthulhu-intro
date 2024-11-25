@@ -22,6 +22,7 @@ nie będziesz spał spokojnie.
 #### _Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!_
 
 _(To znaczy: "Miłej zabawy!" w języku, którego lepiej nie próbuj wymówić na głos)_
+
 ___
 
 ## Przygotowanie do gry 📝
@@ -52,6 +53,7 @@ dodatkowych materiałach:
 
 _Pamiętaj - czytanie tych materiałów jest całkowicie opcjonalne. Możesz też wskoczyć w przygodę na głęboką wodę i uczyć
 się zasad w trakcie gry. W końcu Twoja postać też nie ma pojęcia, w co się pakuje..._
+
 ___
 
 ## Przygotowanie do scenariusza 🖋️
@@ -92,6 +94,7 @@ Zanim zaczniemy, potrzebuję od Was następujących informacji:
 - Czy zna któregoś z pozostałych Badaczy? Jeśli tak, to w jaki sposób?
 
 Przemyślcie te kwestie - będą fundamentem Waszej historii... jakkolwiek długo będzie jej dane trwać. 💭
+
 ___
 ## Ważna uwaga na koniec! ⚡
 
@@ -103,4 +106,4 @@ skąd zna szanownego pana Merriweathera. Resztę szczegółów ustalimy razem po
 spotkania.
 
 _W końcu najważniejsze to mieć pomysł na postać, którą z chęcią pogracie... przynajmniej do momentu jej nieuchronnego
-spotkania z nieopisywalnym koszmarem. 😈_
+spotkania z nieopisywalnym koszmarem._😈
