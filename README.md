@@ -1,5 +1,3 @@
-# Zew Cthulhu - Wprowadzenie dla Graczy 🐙
-
 ## Wstęp 🌌
 
 Witajcie śmiałkowie... czy raczej przyszłe ofiary!
